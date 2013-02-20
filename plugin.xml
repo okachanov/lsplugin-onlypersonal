@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>
+		<lang name="default">Only personal topics in user`s profile</lang>
+	</name>
+	<author>
+		<lang name="default">rafrica.net</lang>
+	</author>
+	<homepage>http://we.rafrica.net/</homepage>
+	<version>1.0</version>
+	<requires>
+		<livestreet>0.4.2</livestreet>
+	</requires>
+	<description>
+		<lang name="russian">Включает вывод в профиль пользователя топики ТОЛЬКО из персонального блога</lang>
+		<lang name="default">Shows in user`s profile topics from personal blog only</lang>
+	</description>
+</plugin>
